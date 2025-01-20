@@ -1,0 +1,1000 @@
+.taste-heading {
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: -3%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.highlight {
+    color: #FD9222;
+}
+
+.taste-text {
+    color: rgb(17, 17, 17);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -2%;
+    text-align: center;
+}
+
+.ingredient-name {
+    color: rgb(255, 255, 255);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: -2%;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.colour-black {
+    color: #111111;
+}
+
+.how-its-made-heading {
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: -3%;
+    text-align: center;
+    text-transform: uppercase;
+    width: 350px;
+}
+
+.how-its-made-text {
+    color: rgb(17, 17, 17);
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.step-text {
+    color: rgb(17, 17, 17);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -2%;
+    text-align: left;
+}
+
+.ingredients-list {
+    list-style: none;
+}
+
+.product-name {
+    color: rgb(17, 17, 17);
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: -2%;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.product-type {
+    color: rgba(17, 17, 17, 0.7);
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: -2%;
+    text-align: left;
+}
+
+.product-price {
+    box-sizing: border-box;
+    border: 1px solid rgba(17, 17, 17, 0.1);
+    border-radius: 100px;
+    background: rgb(250, 250, 250);
+    color: rgb(17, 17, 17);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding: 8px 20px 8px 20px;
+}
+
+.our-products-heading {
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: -3%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.top-sellers-heading {
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: -3%;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0px 0px 50px 0px;
+}
+
+.top-sellers-text {
+    color: rgb(17, 17, 17);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -2%;
+    text-align: left;
+}
+
+.top-sellers-btn {
+    color: #111111;
+    box-sizing: border-box;
+    border: 1px solid;
+    border-radius: 100px;
+}
+
+.chocolate-is-loved-heading {
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: -3%;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0px 0px 100px 0px;
+}
+
+.testimonial-name {
+    color: rgb(17, 17, 17);
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.testimonial-text {
+    color: rgba(17, 17, 17, 0.7);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -2%;
+    text-align: center;
+}
+
+.testimonial-btn {
+    color: rgb(17, 17, 17);
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: left;
+    box-sizing: border-box;
+    border: 1px solid rgb(253, 146, 34);
+    border-radius: 100px;
+    background-color: white;
+    padding: 14px 40px;
+    transition-duration: 350ms;
+    transition-property: background;
+    transition-timing-function: linear;
+}
+
+.testimonial-btn:hover {
+    color: rgb(255, 255, 255);
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: left;
+    border-radius: 100px;
+    background: rgb(253, 146, 34);
+    transition-duration: 350ms;
+    transition-property: background;
+    transition-timing-function: linear;
+}
+
+.new-chocolate-heading {
+    color: rgb(255, 255, 255);
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: -3%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.new-chocolate-description {
+    color: rgb(255, 255, 255);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -2%;
+    text-align: center;
+}
+
+.cta-button {
+    padding: 14px 40px 14px 40px;
+}
+
+.ingredient-detail {
+    display: none;
+}
+
+.taste-heading {
+    width: 411px;
+}
+
+.taste-text {
+    width: 486px;
+}
+
+.taste-description {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px 0px 50px 0px;
+    gap: 28px;
+    align-items: center;
+}
+
+.ingredient-item {
+    border-radius: 15px;
+    background: rgb(253, 146, 34);
+    padding: 28px;
+    position: relative;
+}
+
+.ingredient-desc-main {
+    display: flex;
+    flex-direction: column;
+    gap: 36px;
+}
+
+.ingredients-list {
+    display: flex;
+    gap: 19px;
+}
+
+.ingredient-item-color-1 {
+    box-sizing: border-box;
+    border: 1px solid rgb(253, 146, 34);
+    border-radius: 15px;
+    background: rgb(255, 255, 255);
+}
+
+.ingredient-item-color-2 {
+    border-radius: 15px;
+    background: rgb(30, 24, 35);
+    border: 1px solid rgb(30, 24, 35);
+}
+
+.how-its-made-heading {
+    padding: 0px 0px 50px 0px;
+}
+
+.how-its-made-content {
+    display: flex;
+    gap: 52px;
+}
+
+.how-its-made-steps {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    width: 436px;
+}
+
+.how-its-made-description {
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+    width: 516px;
+    height: 400px;
+    align-items: center;
+}
+
+.how-its-made-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.step-text {
+    width: 436px;
+}
+
+.our-products-heading {
+    padding: 0px 0px 50px 0px;
+}
+
+.product-list {
+    display: flex;
+    gap: 18px;
+    flex-direction: row;
+    align-items: center;
+}
+
+.product-item {
+    box-sizing: border-box;
+    border: 1px solid rgba(17, 17, 17, 0.1);
+    border-radius: 15px;
+    background: rgb(255, 255, 255);
+    padding: 32px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.describe-product {
+    display: flex;
+    gap: 2px;
+    padding: 0px 0px 18px 0px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.step-item {
+    width: 436px;
+}
+
+.top-sellers-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.top-sellers-images {
+    display: flex;
+    gap: 16px;
+}
+
+.top-sellers-text {
+    width: 407px;
+}
+
+.top-sellers-btn {
+    border-radius: 100px;
+    background: rgb(253, 146, 34);
+    color: rgb(255, 255, 255);
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding: 14px 40px;
+    transition-timing-function: linear;
+    transition-property: background;
+    transition-duration: 350ms;
+}
+
+.top-sellers-btn:hover {
+    border-radius: 100px;
+    background: rgb(252, 241, 224);
+    transition-duration: 350ms;
+    transition-timing-function: linear;
+    transition-property: background;
+    color: rgb(253, 146, 34);
+    border: none;
+}
+
+.top-sellers-description {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 32px 0px 0px 0px;
+}
+
+.chocolate-is-loved-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.testimonial-item {
+    box-sizing: border-box;
+    border: 1px solid rgba(17, 17, 17, 0.1);
+    border-radius: 15px;
+    box-shadow: 0px 9.05px 26.57px 0px rgba(215, 228, 249, 0.25);
+    background: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 360px;
+    height: 200px;
+    gap: 24px;
+    padding: 0px 24px 42px;
+}
+
+.human-name {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    align-items: center;
+}
+
+.testimonials-list {
+    display: flex;
+    gap: 28px;
+}
+
+.testimonial-image {
+    width: 80px;
+    height: 80px;
+}
+
+.review-icons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.icons-switch {
+    display: flex;
+}
+
+.new-chocolate {
+    background-image: url(../img/subcribe-desktop.png);
+    padding: 72px 366px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.new-chocolate-description {
+    width: 467px;
+}
+
+.new-chocolate-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 24px;
+    padding: 0px;
+}
+
+.chocolate-is-loved {
+    padding: 128px 0px 128px 0px;
+}
+
+.leave-a-review {
+    display: block;
+}
+
+.Subscribe {
+    display: block;
+}
+
+.how-its-made-circe {
+    box-sizing: border-box;
+    border: 2px solid rgb(255, 255, 255);
+    width: 44px;
+    height: 44px;
+    position: absolute;
+    top: 180px;
+    right: 270px;
+    border-radius: 50%;
+}
+
+.svg-image {
+    position: relative;
+}
+
+.ingredient-detail-text {
+    color: rgb(17, 17, 17);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -2%;
+    text-align: left;
+    width: 214px;
+}
+
+.ingredient-detail-title {
+    color: rgb(17, 17, 17);
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: -3%;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.ingredient-detail-btn-orange {
+    color: rgb(255, 255, 255);
+    font-family: Montserrat;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding: 6px 16px 6px 16px;
+    border-radius: 35px;
+    background: rgb(253, 146, 34);
+    border: none;
+}
+
+.ingredient-detail-btn-white {
+    color: rgb(17, 17, 17);
+    font-family: Montserrat;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding: 6px 16px 6px 16px;
+    box-sizing: border-box;
+    border: 1px solid rgb(253, 146, 34);
+    border-radius: 35px;
+    background: rgb(250, 250, 250);
+}
+
+.ingredient-detail {
+    border-radius: 15px;
+    padding: 28px;
+    background: rgb(226, 226, 226);
+    display: block;
+    gap: 14px;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    transform: translate(0, 100%);
+    transition-duration: 250ms;
+    transition-property: transform;
+    transition-timing-function: linear;
+}
+
+.ingredient-desc-main:hover {
+    box-sizing: border-box;
+}
+
+.ingredient-item {
+    overflow: hidden;
+}
+
+.ingredient-item:hover>.ingredient-detail {
+    transform: translate(0, 0);
+}
+
+.ingredient-item-color-3 {
+    border: 1px solid rgb(253, 146, 34);
+}
+
+.title-button-detail {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.details-button {
+    display: flex;
+    gap: 6px;
+}
+
+.how-its-made-image-tablet,
+.how-its-made-image-mobile {
+    display: none;
+}
+
+.top-sellers-text-none {
+    display: none;
+}
+
+.product-icon {
+    fill: rgba(17, 17, 17, 0.1);
+}
+
+.rectangle {
+    fill: rgb(253, 146, 34);
+    width: 28px;
+    height: 13px;
+}
+
+.product-icons {
+    display: flex;
+    gap: 13px;
+}
+
+.our-products-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.product-list {
+    padding: 0px 0px 32px 0px;
+}
+
+.icons-switch {
+    display: flex;
+    gap: 13px;
+    padding: 32px 0px 0px 0px;
+}
+
+.review-icon {
+    fill: rgba(17, 17, 17, 0.1);
+}
+
+.rectangle {
+    fill: rgb(253, 146, 34);
+}
+
+.ingredients-list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.top-sellers-image {
+    border-radius: 15px;
+}
+
+.our-products-menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.splide__pagination {
+    display: none;
+}
+
+.splide__arrows,
+.splide__arrows--ltr {
+    display: none;
+}
+
+.splide__pagination,
+.splide__pagination--ltr {
+    display: none;
+}
+
+.presentation {
+    display: none;
+}
+
+.buy-now-section {
+    display: block;
+}
+
+.buy-now-products {
+    display: flex;
+    gap: 16px;
+    flex-direction: row;
+}
+
+.buy-now-items {
+    box-sizing: border-box;
+    border: 1px solid rgba(17, 17, 17, 0.1);
+    border-radius: 15px;
+    background: rgb(255, 255, 255);
+    padding: 24px 20px 18px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 14px;
+}
+
+.buy-now-btn {
+    box-sizing: border-box;
+    border: 1px solid rgba(17, 17, 17, 0.1);
+    border-radius: 100px;
+    background: rgb(250, 250, 250);
+    color: rgb(17, 17, 17);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding: 8px 27px 8px 27px;
+}
+
+.info-title {
+    color: rgb(0, 0, 0);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: -2%;
+    text-align: left;
+}
+
+.personal-form {
+    width: 513px;
+}
+
+.input-field {
+    box-sizing: border-box;
+    border: 0.55px solid rgba(17, 17, 17, 0.05);
+    border-radius: 4.78px;
+    box-shadow: 0px 5.44px 5.44px 0px rgba(0, 0, 0, 0.03);
+    padding: 22px 135px 22px 24px;
+    width: 513px;
+    height: 66px;
+    color: rgba(64, 64, 64, 0.3);
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: -2%;
+    text-align: left;
+}
+
+.name {
+    width: 246px;
+}
+
+.fio {
+    display: flex;
+    flex-direction: row;
+    gap: 21px;
+}
+
+.info-section {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.personal-information {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    padding: 40px 0px 32px 0px;
+}
+
+.submit-btn {
+    padding: 14px 40px 14px 40px;
+    border-radius: 100px;
+    background: rgb(253, 146, 34);
+    color: rgb(255, 255, 255);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17px;
+    letter-spacing: 0%;
+    text-align: left;
+    border: none;
+    width: 133px;
+    height: 45px;
+}
+
+.comment-label {
+    display: flex;
+}
+
+.comment {
+    width: 513px;
+    height: 137px;
+    display: flex;
+    padding: 22px 393px 93px 24px;
+}
+
+.buy-now-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.buy-now-title {
+    padding: 0px 0px 32px 0px;
+}
+
+.buy-now-cross {
+    stroke: black;
+
+}
+
+.buy-now-phone {
+    display: flex;
+    background-color: white;
+    gap: 18px;
+    align-items: center;
+    border: none;
+    color: rgb(0, 0, 0);
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: -2%;
+    text-align: left;
+}
+
+.phone-label {
+    display: flex;
+}
+
+.review-heading {
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: -3%;
+    text-align: left;
+    text-transform: uppercase;
+    width: 350px;
+    margin: 0;
+}
+
+.review-input {
+    box-sizing: border-box;
+    border: 0.55px solid rgba(17, 17, 17, 0.05);
+    border-radius: 4.78px;
+    box-shadow: 0px 5.44px 5.44px 0px rgba(0, 0, 0, 0.03);
+    padding: 22px 295px 22px 24px;
+    height: 66px;
+}
+
+.review-box-text {
+    padding: 22px 295px 93px 24px;
+}
+
+.review-form {
+    display: flex;
+    gap: 19px;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.subscribe-input {
+    padding: 15px 145px 15px 24px;
+    box-sizing: border-box;
+    border: 0.55px solid rgba(17, 17, 17, 0.05);
+    border-radius: 11.02px;
+    color: rgba(64, 64, 64, 0.3);
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: -2%;
+    text-align: left;
+}
+
+
+
+.subscribe-img {
+    width: 100%;
+}
+
+.modal-content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 609px;
+    padding: 40px;
+}
+
+.modal-footer {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.buy-now-cross {
+    position: absolute;
+    right: 50px;
+    top: 40px;
+    stroke: white;
+    fill: white;
+    background-color: white;
+    border: none;
+}
+
+.input-phone {
+    width: 350px;
+    background-color: inherit;
+    border: none;
+}
+
+.phonr-label {
+    display: flex;
+    box-sizing: border-box;
+    border: 0.55px solid rgba(17, 17, 17, 0.05);
+    border-radius: 4.78px;
+    box-shadow: 0px 5.44px 5.44px 0px rgba(0, 0, 0, 0.03);
+    padding: 22px 135px 22px 24px;
+    width: 513px;
+    height: 66px;
+    align-items: center;
+    gap: 60px;
+}
+
+.review-phone-label {
+    width: 500px;
+}
+
+.modal-content-2 {
+    display: flex;
+    align-items: flex-start;
+}
+
+.review-icon {
+    position: absolute;
+    right: 50px;
+    top: 35px;
+}
+
+.review-phone {
+    padding: 22px 138px 22px 24px;
+}
+
+.subscribe-input {
+    width: 313px;
+}
+
+.subscribe-title {
+    width: 240px;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: -3%;
+    text-align: left;
+    text-transform: uppercase;
+    padding: 40px 0px 28px 0px;
+}
+
+.subscribe-modal {
+    padding: 0px;
+    width: 450px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.subscribe-form {
+    background: white;
+    padding: 0px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.subscribe-modal-header {
+    background: url(../img/subscribe-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 538px;
+    height: 196px;
+}
+
+.subscribe-cross {
+    position: absolute;
+    stroke: white;
+    fill: white;
+    width: 28px;
+    height: 28px;
+    position: absolute;
+    right: 50px;
+    top: 50px;
+}

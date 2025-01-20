@@ -1,0 +1,288 @@
+.logo-text {
+    color: rgb(17, 17, 17);
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: -3%;
+    text-align: left;
+}
+
+.nav-link {
+    color: rgb(17, 17, 17);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: -2%;
+    text-align: left;
+}
+
+.header-heading {
+    color: rgb(255, 255, 255);
+    font-family: Montserrat;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 34px;
+    letter-spacing: -3%;
+    text-align: left;
+}
+
+.cta-button {
+    border-radius: 100px;
+    background: rgb(253, 146, 34);
+    color: rgb(255, 255, 255);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17px;
+    letter-spacing: 0%;
+    text-align: left;
+    border: none;
+    transition-duration: 350ms;
+    transition-timing-function: linear;
+    transition-property: background;
+}
+
+.cta-button:hover {
+    border-radius: 100px;
+    background: rgb(252, 241, 224);
+    transition-duration: 350ms;
+    transition-timing-function: linear;
+    transition-property: background;
+    color: rgb(253, 146, 34);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.black-button {
+    box-sizing: border-box;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 100px;
+    color: rgb(255, 255, 255);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding: 14px 40px 14px 40px;
+    background-color: inherit;
+    transition-duration: 350ms;
+    transition-timing-function: linear;
+    transition-property: border color;
+}
+
+.black-button:hover {
+    box-sizing: border-box;
+    border: 1px solid rgb(253, 146, 34);
+    border-radius: 100px;
+    color: rgb(253, 146, 34);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17px;
+    letter-spacing: 0%;
+    text-align: left;
+    transition-duration: 350ms;
+    transition-timing-function: linear;
+    transition-property: border color;
+}
+
+.scroll-text {
+    color: rgb(255, 255, 255);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: -3%;
+    text-align: left;
+}
+
+.feature-heading {
+    color: rgb(255, 255, 255);
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.feature-text {
+    color: rgba(255, 255, 255, 0.7);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: -2%;
+    text-align: left;
+}
+
+.feature-container {
+    background: rgb(30, 24, 35);
+    width: 100%;
+    padding: 0;
+}
+
+.header-nav {
+    list-style: none;
+}
+
+.feature-list {
+    list-style: none;
+}
+
+.header-content {
+    background-image: url(../img/chocolate-bg-header-desktop.png);
+    background-repeat: no-repeat;
+    background-size: 1136px;
+    border-radius: 15px;
+}
+
+.header-links {
+    display: flex;
+    gap: 24px;
+    height: 20px;
+}
+
+.header-content {
+    padding: 381px 40px 40px 40px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.header-heading {
+    width: 484px;
+}
+
+.header-text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+}
+
+.buttons {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 32px 0px 0px 0px;
+}
+
+.scrolls-button {
+    display: flex;
+    gap: 14px;
+}
+
+.scroll-section {
+    display: flex;
+    gap: 14px;
+    align-items: center;
+}
+
+.feature-item {
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+}
+
+.feature-description {
+    display: flex;
+    gap: 18px;
+    flex-direction: column;
+}
+
+.feature-list {
+    display: flex;
+    padding: 50px 0px;
+    align-items: center;
+}
+
+.header-logo {
+    height: 20px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.nav-link {
+    height: 20px;
+}
+
+.header-icons {
+    height: 20px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.header-nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 32px 0px 32px 0px;
+}
+
+.header-container {
+    padding: 0px 0px 72px 0px;
+}
+
+.text-height-2 {
+    width: 308px;
+}
+
+.logo-icon {
+    fill: white;
+    stroke: #FD9222;
+}
+
+.icon {
+    stroke: black;
+    fill: white;
+}
+
+.scroll-icon {
+    fill: #FD9222;
+}
+
+.scroll-circle {
+    background: rgb(255, 255, 255);
+    border-radius: 50%;
+    padding: 10px 10px;
+    width: 40px;
+    height: 40px;
+}
+
+.feature-icon {
+    fill: #FD9222;
+}
+
+.circle-feature {
+    box-sizing: border-box;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 365px;
+    width: 62px;
+    height: 62px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.feature-text {
+    width: 308px;
+}
+
+.line {
+    transform: rotate(90.00deg);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    width: 124px;
+}
+
+.menu-tablet {
+    display: none;
+}

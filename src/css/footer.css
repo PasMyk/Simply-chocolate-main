@@ -1,0 +1,100 @@
+.footer-heading {
+  font-family: Montserrat;
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 34px;
+  letter-spacing: -2%;
+  text-align: left;
+  color: #FFFFFF;
+}
+
+.footer-subheading {
+  color: rgb(255, 255, 255);
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+
+.contact-link {
+  color: rgb(255, 255, 255);
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: -2%;
+  text-align: center;
+}
+
+.footer-nav-link {
+  color: rgb(255, 255, 255);
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: -2%;
+  text-align: left;
+}
+
+footer {
+  background: rgb(30, 24, 35);
+}
+
+.footer-contact {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px 0px 62px 0px;
+}
+
+.footer-heading {
+  width: 340px;
+  height: 68px;
+}
+
+.contact-details {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+}
+
+.footer-contact-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 14px;
+}
+
+.social-icons {
+  display: flex;
+}
+
+.footer-navigation {
+  padding: 24px 0px 50px 0px;
+  display: flex;
+  gap: 24px;
+}
+
+.social-icon {
+  stroke: white;
+}
+
+.footer-contact-info {
+  display: flex;
+  flex-direction: row;
+  gap: 65px;
+}
+
+.footer-contact-details {
+  flex-direction: column;
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+}
+
+.social-icons {
+  display: flex;
+  gap: 20px;
+}

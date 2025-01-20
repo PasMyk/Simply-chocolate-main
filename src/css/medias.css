@@ -1,0 +1,1128 @@
+@media (max-width: 1175px) {
+    .feature-list {
+        display: flex;
+        gap: 0px;
+        width: 1150px;
+    }
+
+    .product-item {
+        width: 270px;
+        height: 364px;
+    }
+}
+
+@media (max-width: 1150px) {
+    .feature-list {
+        width: 1050px;
+    }
+
+    .top-sellers-image {
+        width: 320px;
+    }
+
+    .chocolate-is-loved-heading {
+        width: 1050px;
+    }
+
+    .chocolate-is-loved-container {
+        width: 1050px;
+    }
+
+    .footer-contact {
+        width: 1050px;
+    }
+
+    .footer-container {
+        width: 1050px;
+    }
+
+    .header-nav {
+        width: 1050px;
+    }
+
+    .header-content {
+        width: 975px;
+    }
+
+    .header-container {
+        width: 1050px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .top-sellers-images {
+        display: flex;
+        gap: 30px;
+    }
+}
+
+@media (max-width: 1060px) {
+    .feature-list {
+        width: 950px;
+    }
+
+    .top-sellers-image {
+        width: 290px;
+    }
+
+    .chocolate-is-loved-heading {
+        width: 950px;
+    }
+
+    .chocolate-is-loved-container {
+        width: 950px;
+    }
+
+    .footer-contact {
+        width: 950px;
+    }
+
+    .footer-container {
+        width: 950px;
+    }
+
+    .header-nav {
+        width: 950px;
+    }
+
+    .header-content {
+        width: 875px;
+    }
+
+    .header-container {
+        width: 950px;
+    }
+}
+
+@media (max-width: 960px) {
+    .feature-list {
+        width: 850px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .feature-item {
+        margin-bottom: 15px;
+    }
+
+    .line {
+        display: none;
+    }
+
+    .feature-container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .top-sellers-image {
+        width: 250px;
+    }
+
+    .chocolate-is-loved-heading {
+        width: 850px;
+    }
+
+    .chocolate-is-loved-container {
+        width: 850px;
+    }
+
+    .footer-contact {
+        width: 850px;
+    }
+
+    .footer-container {
+        width: 850px;
+    }
+
+    .header-nav {
+        width: 800px;
+    }
+
+    .header-content {
+        width: 800px;
+    }
+
+    .header-container {
+        width: 800px;
+    }
+
+    .nav-link {
+        display: none;
+    }
+}
+
+@media (max-width: 850px) {
+    .feature-list {
+        width: 810px;
+    }
+
+    .footer-contact {
+        width: 800px;
+    }
+
+    .footer-container {
+        width: 800px;
+    }
+
+    .testimonial-item {}
+
+    .chocolate-is-loved-heading {
+        width: 800px;
+    }
+
+    .chocolate-is-loved-container {
+        width: 800px;
+    }
+
+    .top-sellers-image {
+        width: 240px;
+    }
+
+    .header {
+        width: 800px;
+    }
+
+    .ingredient-detail-text {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 815px) {
+    .header-content {
+        background-image: url(../img/chocolate-bg-header-tablet.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .header-content {
+        width: 704px;
+        padding: 671px 40px 40px 40px;
+    }
+
+    .header-container {
+        width: 768px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .header-nav {
+        width: 704px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .feature-list {
+        width: 768px;
+    }
+
+    .product-item {
+        width: 270px;
+    }
+
+    .top-sellers-image {
+        border-radius: 15px;
+        width: 344px;
+        height: 464px;
+    }
+
+    .footer-contact {
+        width: 768px;
+    }
+
+    .footer-container {
+        width: 768px;
+    }
+
+    .chocolate-is-loved-container {
+        width: 768px;
+    }
+
+    .chocolate-is-loved-heading {
+        width: 768px;
+    }
+
+    .icon {
+        display: none;
+    }
+
+    .ingredients-list {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .feature-list {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: center;
+        align-items: flex-start;
+        margin: 0;
+        gap: 32px;
+    }
+
+    .ingredient-item {
+        width: 336px;
+        height: 270px;
+    }
+
+    .number-1 {
+        order: 1;
+    }
+
+    .number-2 {
+        order: 3;
+    }
+
+    .number-3 {
+        order: 3;
+    }
+
+    .number-4 {
+        order: 2;
+    }
+
+    .ingredient-image {
+        width: 224px;
+        text-align: center;
+        margin-left: 30px;
+    }
+
+    .ingredient-desc-main {
+        display: flex;
+        gap: 25px;
+        align-items: flex-start;
+    }
+
+    .ingredient-name {
+        text-align: left;
+    }
+
+    .how-its-made-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .how-its-made-description {
+        margin-left: 32px;
+    }
+
+    .product-list {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .sellers-3 {
+        display: none;
+    }
+
+    .top-sellers-images {
+        display: flex;
+        justify-content: center;
+    }
+
+    .top-sellers-description {
+        width: 704px;
+    }
+
+    .top-sellers-container {
+        display: flex;
+        align-items: center;
+    }
+
+    .testimonial-3 {
+        display: none;
+    }
+
+    .testimonial-item {
+        width: 344px;
+    }
+
+    .testimonials-list {
+        display: flex;
+        justify-content: center;
+    }
+
+    .footer-contact {
+        padding: 50px 32px 60px 32px;
+    }
+
+    .footer-navigation {
+        padding: 24px 32px 50px 32px;
+    }
+
+    .height-3 {
+        margin-right: 342px;
+    }
+
+    .menu-tablet {
+        display: block;
+        stroke: black;
+    }
+}
+
+@media (max-width: 768px) {
+    .feature-list {
+        width: 690px;
+    }
+
+    .top-sellers-image {
+        width: 325px;
+    }
+
+    .top-sellers-container {
+        width: 690px;
+    }
+
+    .top-sellers-description {
+        width: 690px;
+    }
+
+    .testimonials-list {
+        width: 690px;
+    }
+
+    .chocolate-is-loved-container {
+        width: 690px;
+    }
+
+    .testimonial-item {
+        width: 320px;
+    }
+
+    .how-its-made-image-tablet {
+        display: block;
+    }
+
+    .how-its-made-image-desktop {
+        display: none;
+    }
+
+    .chocolate-is-loved-heading {
+        width: 690px;
+    }
+
+    .new-chocolate {
+        background-image: url(../img/subcribe-tablet.png);
+        padding: 72px 366px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 72px 150px;
+    }
+
+    .footer-heading {
+        font-family: Montserrat;
+        font-size: 28px;
+        font-weight: 500;
+        line-height: 34px;
+        letter-spacing: -2%;
+    }
+
+    .footer-subheading {
+        color: rgb(255, 255, 255);
+        font-family: Montserrat;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 18px;
+        letter-spacing: 0%;
+    }
+
+    .contact-link {
+        color: rgb(255, 255, 255);
+        font-family: Montserrat;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 18px;
+        letter-spacing: -2%;
+    }
+
+    .footer-contact {
+        width: 690px;
+    }
+
+    .footer-container {
+        width: 690px;
+    }
+
+    .ingredient-detail-text {
+        color: rgb(17, 17, 17);
+        font-family: Montserrat;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 18px;
+        letter-spacing: -2%;
+        text-align: left;
+    }
+
+    .ingredient-item {
+        width: 300px;
+    }
+
+    .header-content {
+        width: 604px;
+    }
+
+    .header-container {
+        width: 690px;
+    }
+
+    .header-nav {
+        width: 600px;
+    }
+}
+
+@media (max-width: 690px) {
+    .header-container {
+        width: 600px;
+    }
+
+    .header-content {
+        width: 550px;
+    }
+
+    .feature-list {
+        width: 600px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .height-3 {
+        margin: 0;
+    }
+
+    .feature-container {
+        width: 600px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .top-sellers-container {
+        width: 600px;
+    }
+
+    .top-sellers-image {
+        width: 280px;
+        height: 100%;
+    }
+
+    .top-sellers-description {
+        width: 600px;
+    }
+
+    .chocolate-is-loved-heading {
+        width: 600px;
+    }
+
+    .chocolate-is-loved-container {
+        width: 600px;
+    }
+
+    .testimonials-list {
+        display: flex;
+        flex-direction: column;
+        width: 600px;
+        align-items: center;
+        gap: 60px;
+    }
+
+    .footer-contact {
+        display: flex;
+        flex-direction: column;
+        gap: 32px;
+        width: 600px;
+    }
+
+    .footer-container {
+        width: 600px;
+    }
+
+    .footer-navigation {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .cta-button {
+        color: rgb(255, 255, 255);
+        font-family: Montserrat;
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 17px;
+        letter-spacing: 0%;
+        text-align: left;
+    }
+
+    .black-button {
+        color: rgb(255, 255, 255);
+        font-family: Montserrat;
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 17px;
+        letter-spacing: 0%;
+        text-align: left;
+    }
+
+    .buttons {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 32px;
+    }
+
+    .header-nav {
+        width: 550px;
+    }
+
+    .how-its-made-mobile {
+        display: none;
+    }
+}
+
+@media (max-width: 600px) {
+    .feature-container {
+        width: 530px;
+    }
+
+    .feature-list {
+        width: 530px;
+    }
+
+    .header-container {
+        width: 530px;
+    }
+
+    .header-content {
+        width: 500px;
+    }
+
+    .header-nav {
+        width: 500px;
+    }
+
+    .how-its-made-image-tablet {
+        width: 510px;
+        border-radius: 15px;
+    }
+
+    .svg-image {
+        width: 510px;
+    }
+
+
+    .how-its-made-content {
+        width: 530px;
+        display: flex;
+        align-items: center;
+    }
+
+    .how-its-made-description {
+        width: 490px;
+    }
+
+    .top-sellers-text-none {
+        display: block;
+        color: rgb(17, 17, 17);
+        font-family: Montserrat;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 18px;
+        letter-spacing: -2%;
+        text-align: left;
+        width: 306px;
+    }
+
+    .top-sellers-text {
+        display: none;
+    }
+
+    .top-sellers-container {
+        width: 530px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .top-sellers-images {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .top-sellers-description {
+        display: flex;
+        flex-direction: column;
+        width: 530px;
+    }
+
+    .top-sellers-image {
+        width: 335px;
+    }
+
+    .chocolate-is-loved-heading {
+        width: 530px;
+    }
+
+    .chocolate-is-loved-container {
+        width: 530px;
+    }
+
+    .testimonials-list {
+        width: 530px;
+    }
+
+    .new-chocolate {
+        padding: 62px 20px;
+    }
+
+    .new-chocolate-heading {
+        color: rgb(255, 255, 255);
+        font-family: Montserrat;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 24px;
+        letter-spacing: -3%;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    .new-chocolate-description {
+        color: rgb(255, 255, 255);
+        font-family: Montserrat;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 18px;
+        letter-spacing: -2%;
+        text-align: center;
+    }
+
+    .footer-contact {
+        width: 530px;
+    }
+
+    .footer-container {
+        width: 530px;
+    }
+
+    .header-heading {
+        width: 299px;
+    }
+
+    .how-its-made-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media (max-width: 530px) {
+    .header-content {
+        background-image: url(../img/chocolate-bg-header-mobile.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .header-container {
+        width: 410px;
+    }
+
+    .feature-list {
+        width: 410px;
+    }
+
+    .feature-container {
+        width: 100%;
+    }
+
+    .header-content {
+        width: 380px;
+    }
+
+    .header-nav {
+        width: 380px;
+    }
+
+    .cta-button {
+        padding: 12px 28px;
+    }
+
+    .black-button {
+        padding: 12px 28px;
+    }
+
+    .taste-text {
+        color: rgb(17, 17, 17);
+        font-family: Montserrat;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 18px;
+        letter-spacing: -2%;
+        text-align: center;
+        width: 335px;
+    }
+
+    .taste-description {
+        width: 283px;
+    }
+
+    .ingredient-image {
+        margin-left: 15px;
+    }
+
+    .how-its-made-image-tablet {
+        width: 390px;
+    }
+
+    .how-its-made-content {
+        width: 410px;
+    }
+
+    .how-its-made-circe {
+        top: 110px;
+        right: 180px;
+        position: absolute;
+    }
+
+    .svg-image {
+        width: 390px;
+    }
+
+    .how-its-made-description {
+        width: 375px;
+        display: flex;
+        align-items: flex-start;
+    }
+
+    .step-text {
+        width: 291px;
+    }
+
+    .how-its-made-text {
+        width: 307px;
+    }
+
+    .step-item {
+        width: 370px;
+    }
+
+    .how-its-made-steps {
+        width: 370px;
+    }
+
+    .top-sellers-container {
+        width: 410px;
+    }
+
+    .top-sellers-description {
+        width: 410px;
+    }
+
+    .chocolate-is-loved-container {
+        width: 410px;
+    }
+
+    .chocolate-is-loved-heading {
+        width: 410px;
+    }
+
+    .testimonials-list {
+        width: 410px;
+    }
+
+    .new-chocolate-heading {
+        width: 291px;
+    }
+
+    .new-chocolate-description {
+        width: 326px;
+    }
+
+    .footer-contact {
+        width: 410px;
+    }
+
+    .footer-container {
+        width: 410px;
+    }
+
+    .taste-container {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media (max-width: 410px) {
+    .header-container {
+        width: 375px;
+    }
+
+    .header-content {
+        width: 375px;
+    }
+
+    .header-nav {
+        width: 375px;
+    }
+
+    .feature-container {
+        width: 375px;
+    }
+
+    .feature-list {
+        width: 375px;
+    }
+
+    .taste-heading {
+        width: 283px;
+    }
+
+    .how-its-made-container {
+        width: 375px;
+    }
+
+    .how-its-made-image-tablet {
+        display: none;
+    }
+
+    .how-its-made-image-mobile {
+        display: block;
+        border-radius: 15px;
+    }
+
+    .svg-image {
+        width: 375px;
+    }
+
+    .how-its-made-content {
+        width: 375px;
+    }
+
+    .how-its-made-steps {
+        width: 335px;
+    }
+
+    .how-its-made-description {
+        width: 335px;
+    }
+
+    .step-item {
+        width: 291px;
+    }
+
+    .top-sellers-container {
+        width: 375px;
+    }
+
+    .top-sellers-description {
+        width: 375px;
+    }
+
+    .chocolate-is-loved-container {
+        width: 375px;
+    }
+
+    .chocolate-is-loved-heading {
+        width: 375px;
+    }
+
+    .testimonials-list {
+        width: 375px;
+    }
+
+    .testimonial-item {
+        width: 335px;
+        height: 200px;
+    }
+
+    .testimonial-2 {
+        display: none;
+    }
+
+    .footer-contact {
+        width: 375px;
+    }
+
+    .footer-container {
+        width: 375px;
+    }
+
+    .how-its-made-container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .svg-image {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .header-nav {
+        width: 350px;
+    }
+
+    .header-content {
+        width: 350px;
+    }
+}
+
+@media (max-width: 375px) {
+    .nav-link {
+        display: none;
+    }
+
+    .feature-list {
+        width: 320px;
+    }
+
+    .feature-container {
+        width: 100%;
+    }
+
+    .header-content {
+        width: 300px;
+        display: flex;
+        align-items: center;
+    }
+
+    .buttons {
+        display: flex;
+        align-items: center;
+    }
+
+    .header-container {
+        width: 320px;
+    }
+
+    .header-nav {
+        width: 300px;
+    }
+
+    .taste-text {
+        width: 300px;
+        font-size: 14px;
+    }
+
+    .how-its-made-heading {
+        width: 320px;
+    }
+
+    .how-its-made-container {
+        width: 320px;
+    }
+
+    .svg-image {
+        width: 320px;
+    }
+
+    .how-its-made-content {
+        width: 320px;
+    }
+
+    .how-its-made-description {
+        width: 320px;
+    }
+
+    .how-its-made-text {
+        width: 270px;
+        font-size: 16px;
+    }
+
+    .step-text {
+        font-size: 13px;
+        width: 270px;
+    }
+
+    .how-its-made-steps {
+        width: 275px;
+    }
+
+    .how-its-made-description {
+        width: 270px;
+    }
+
+    .list-2,
+    .list-3,
+    .list-4 {
+        display: none;
+    }
+
+    .top-sellers-container {
+        width: 320px;
+    }
+
+    .top-sellers-description {
+        width: 320px;
+    }
+
+    .chocolate-is-loved-container {
+        width: 320px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .chocolate-is-loved-heading {
+        width: 320px;
+    }
+
+    .testimonial-item {
+        width: 300px;
+    }
+
+    .testimonials-list {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 320px;
+    }
+
+    footer {
+        width: 100%;
+    }
+
+    .footer-contact {
+        width: 100%;
+    }
+
+    .new-chocolate {
+        width: 100%;
+    }
+
+    .footer-container {
+        width: 100%;
+    }
+
+    .footer-heading {
+        width: 280px;
+        padding: 0px 0px 70px 0px;
+    }
+
+    .footer-contact-info {
+        width: 250px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .footer-subheading {
+        padding: 30px 0px 0px 0px;
+    }
+
+    .new-chocolate-description {
+        width: 310px;
+    }
+
+    .step-item {
+        width: 270px;
+    }
+
+}

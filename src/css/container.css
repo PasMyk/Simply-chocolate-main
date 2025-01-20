@@ -1,0 +1,45 @@
+.container {
+  width: 1136px;
+  margin: 0 auto;
+}
+
+section {
+  padding: 128px 0px 0px 0px;
+  display: flex;
+  justify-content: center;
+}
+
+.header-container {
+  width: 1136px;
+  margin: 0 auto;
+}
+
+.taste-container {
+  width: 1136px;
+  margin: 0 auto;
+}
+
+.how-its-made-container {
+  width: 1136px;
+  margin: 0 auto;
+}
+
+.our-products-container {
+  width: 1136px;
+  margin: 0 auto;
+}
+
+.top-sellers-container {
+  width: 1136px;
+  margin: 0 auto;
+}
+
+.chocolate-is-loved-container {
+  width: 1136px;
+  margin: 0 auto;
+}
+
+.footer-container {
+  width: 1136px;
+  margin: 0 auto;
+}
