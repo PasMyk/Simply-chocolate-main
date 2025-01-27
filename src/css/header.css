@@ -202,6 +202,7 @@
     display: flex;
     padding: 50px 0px;
     align-items: center;
+    gap: 88px;
 }
 
 .header-logo {
@@ -277,10 +278,22 @@
     width: 308px;
 }
 
-.line {
+.line1 {
     transform: rotate(90.00deg);
     border: 1px solid rgba(255, 255, 255, 0.5);
     width: 124px;
+    position: absolute;
+    top: 950px;
+    right: 500px;
+}
+
+.line2 {
+    transform: rotate(90.00deg);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    width: 124px;
+    position: absolute;
+    top: 950px;
+    right: 900px;
 }
 
 .menu-tablet {

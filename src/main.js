@@ -1,36 +1,25 @@
-import Splide from '@splidejs/splide';
+new Swiper('.food-swiper');
 
-new Splide('.splide').mount();
+const swiper = new Swiper('.swiper', {
+    // Optional parameters
+    direction: 'vertical',
+    loop: true,
+  
+    // If we need pagination
+    pagination: {
+      el: '.swiper-pagination',
 
-var splide = new Splide('.splide', {
-  perPage: 3,
-  focus: 0,
-  omitEnd: true,
-});
+      clickable: true,
 
-splide.mount();
+      swiperTop: 32,
+    },
 
-new Splide('.splide', {
-  classes: {
-    arrows: 'splide__arrows your-class-arrows',
-    arrow: 'splide__arrow your-class-arrow',
-    prev: 'splide__arrow--prev your-class-prev',
-    next: 'splide__arrow--next your-class-next',
-  },
-});
+    slidesPerView: 4,
 
-new Splide('.splide', {
-  classes: {
-    pagination: 'splide__pagination your-class-pagination',
-    page: 'splide__pagination__page your-class-page',
-  },
-});
+    spaceBetween: 18,
 
-pagination: boolean = false;
+    direction: 'horizontal',
 
-const myModal = document.getElementById('myModal');
-const myInput = document.getElementById('myInput');
+    simulateTouch: false,
 
-myModal.addEventListener('shown.bs.modal', () => {
-  myInput.focus();
-});
+  });
